@@ -462,9 +462,3 @@ footer p{
     font-size: 20px;
 }
 
-@media screen and (max-width: 600px) {
-    .background-section-one{
-        height: 200vh;
-    }
-}
-
